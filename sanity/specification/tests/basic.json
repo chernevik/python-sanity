@@ -1,0 +1,7 @@
+{
+    "TestName"  :   "WitchOrDuck",
+    "request"   :   {
+                        "url"       :   "/",
+                        "method"    :   "GET"
+                    }
+}
