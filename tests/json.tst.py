@@ -6,7 +6,7 @@
 
 import                          unittest2
 
-import sanity.specification.specifier as  specificier
+import sanity.formats.json_format as  specificier
 
 
 #=============================================================================

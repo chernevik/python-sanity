@@ -26,6 +26,7 @@ class Specificier(object):
         if os.path.isfile(spec):
             spec    =   open(spec, 'rb').read()
 
+        #-pdb.set_trace()
         self.json   =   json.loads(spec)
         self.d      =   json.loads(spec)
 

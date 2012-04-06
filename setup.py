@@ -6,5 +6,5 @@ setup(name='sanity',
       author_email='',
       url='',
       license='',
-      packages=['sanity', 'sanity.specification'],
+      packages=['sanity', 'sanity.formats'],
       scripts=['sanity.py'])
